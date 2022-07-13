@@ -1,0 +1,4 @@
+-Kapitel 3: "Endergebnis nach Teil 2" ist nicht verfügbar, egal ob Lösung Teil 2 Aufgabe 2 abgeschlossen ist
+-Test 1: Laut Dokumentation benötigt der Konstruktor für Sprite mindestens 1 Konstruktor (public Sprite(Shape shape))
+-Kapitel 5: "Endergebnis nach Teil 2" ist nicht verfügbar, egal ob die Tests abgeschlossen sind
+-Es kann sein, dass viel zu viel Schrott generiert wird, weil ich etwas vergessen habe, wenn nicht habe ich das so oder so korrigiert
